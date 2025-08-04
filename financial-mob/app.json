@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-typescript-app",
-    "slug": "my-typescript-app",
+    "name": "financial-mob",
+    "slug": "financial-mob",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
