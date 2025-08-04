@@ -1,0 +1,8 @@
+{
+    "name": "finances-monorepo",
+    "private": true,
+    "workspaces": [
+        "backend",
+        "mobile"
+    ]
+}
